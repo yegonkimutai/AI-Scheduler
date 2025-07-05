@@ -1,5 +1,5 @@
 from agents import main_agent
-from swarm import Swarm
+from arm import Swarm
 import streamlit as st
 from dotenv import load_dotenv
 import os

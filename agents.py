@@ -1,4 +1,4 @@
-from swarm import Agent
+from Swarm.sim import Agent
 from prompts import calendar_agent_prompt, main_agent_prompt
 from calendar_tools import list_calendar_list, list_calendar_events, create_calendar_list, insert_calendar_event
 
